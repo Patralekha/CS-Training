@@ -1,2 +1,2 @@
-# CS-Training
-CS Training
+# CS-Hackathon & Training
+CS Training & Hackathon
